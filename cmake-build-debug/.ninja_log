@@ -1,0 +1,12 @@
+# ninja log v5
+10	2384	7032923790363623	CMakeFiles/mastering_web3_0_recruitment.dir/car.cpp.obj	681096a1b1c4d9bf
+1	223	7032927227368691	build.ninja	1a574ddbc4954929
+5	2128	7032926880112133	CMakeFiles/mastering_web3_0_recruitment.dir/test.cpp.obj	2aa95dbee6d9b1f1
+1	211	7032927227368691	build.ninja	1a574ddbc4954929
+3	404	7032927231744510	mastering_web3_0_recruitment.exe	f36d31c8796abbf5
+3	1857	7032929249243666	CMakeFiles/mastering_web3_0_recruitment.dir/test.cpp.obj	2aa95dbee6d9b1f1
+1858	1991	7032929250519852	mastering_web3_0_recruitment.exe	f36d31c8796abbf5
+4	2504	7032930512714220	CMakeFiles/mastering_web3_0_recruitment.dir/test.cpp.obj	2aa95dbee6d9b1f1
+2507	2657	7032930514223795	mastering_web3_0_recruitment.exe	f36d31c8796abbf5
+4	2017	7032935369743256	CMakeFiles/mastering_web3_0_recruitment.dir/test.cpp.obj	2aa95dbee6d9b1f1
+2017	2143	7032935370955287	mastering_web3_0_recruitment.exe	f36d31c8796abbf5
