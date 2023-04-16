@@ -43,6 +43,7 @@ public:
         speed_y -= decrement_y;
         speed_z -= decrement_z;
     }
+
     void move(int time){
         x += speed_x * time;
         y += speed_y * time;
